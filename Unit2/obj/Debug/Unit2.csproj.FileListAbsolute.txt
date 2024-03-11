@@ -1,0 +1,6 @@
+/Users/aminh09/RiderProjects/BE_NET/Unit2/bin/Debug/Unit2.exe
+/Users/aminh09/RiderProjects/BE_NET/Unit2/bin/Debug/Unit2.pdb
+/Users/aminh09/RiderProjects/BE_NET/Unit2/obj/Debug/Unit2.csproj.AssemblyReference.cache
+/Users/aminh09/RiderProjects/BE_NET/Unit2/obj/Debug/Unit2.csproj.CoreCompileInputs.cache
+/Users/aminh09/RiderProjects/BE_NET/Unit2/obj/Debug/Unit2.exe
+/Users/aminh09/RiderProjects/BE_NET/Unit2/obj/Debug/Unit2.pdb
