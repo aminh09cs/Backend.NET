@@ -14,7 +14,7 @@ namespace Unit3
 
             // Ex2 ex2 = new Ex2();
             // ex2.DateValidation();
-            3
+            
             // Ex3 ex3 = new Ex3();
             // string text = ex3.GenerateString();
             // Console.WriteLine(text);
