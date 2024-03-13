@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{82069A52-9B94-43A7-9F20-D427E7ECCA17}</ProjectGuid>
+        <ProjectGuid>{1614F771-4F72-488F-8C99-596C56AB13C4}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>Unit2</RootNamespace>
-        <AssemblyName>Unit2</AssemblyName>
+        <RootNamespace>Unit3</RootNamespace>
+        <AssemblyName>Unit3</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -40,8 +40,10 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Ex12.cs" />
-        <Compile Include="Ex13.cs" />
+        <Compile Include="Ex1.cs" />
+        <Compile Include="Ex2.cs" />
+        <Compile Include="Ex3.cs" />
+        <Compile Include="Ex4.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>

@@ -1,0 +1,6 @@
+/Users/aminh09/RiderProjects/BE_NET/Unit3/bin/Debug/Unit3.exe
+/Users/aminh09/RiderProjects/BE_NET/Unit3/bin/Debug/Unit3.pdb
+/Users/aminh09/RiderProjects/BE_NET/Unit3/obj/Debug/Unit3.csproj.AssemblyReference.cache
+/Users/aminh09/RiderProjects/BE_NET/Unit3/obj/Debug/Unit3.csproj.CoreCompileInputs.cache
+/Users/aminh09/RiderProjects/BE_NET/Unit3/obj/Debug/Unit3.exe
+/Users/aminh09/RiderProjects/BE_NET/Unit3/obj/Debug/Unit3.pdb
