@@ -1,0 +1,6 @@
+/Users/aminh09/RiderProjects/BE_NET/BookStore/bin/Debug/BookStore.exe
+/Users/aminh09/RiderProjects/BE_NET/BookStore/bin/Debug/BookStore.pdb
+/Users/aminh09/RiderProjects/BE_NET/BookStore/obj/Debug/BookStore.csproj.AssemblyReference.cache
+/Users/aminh09/RiderProjects/BE_NET/BookStore/obj/Debug/BookStore.csproj.CoreCompileInputs.cache
+/Users/aminh09/RiderProjects/BE_NET/BookStore/obj/Debug/BookStore.exe
+/Users/aminh09/RiderProjects/BE_NET/BookStore/obj/Debug/BookStore.pdb
