@@ -1,0 +1,6 @@
+/Users/aminh09/RiderProjects/BE_NET/Unit6.StudentManagement/bin/Debug/Unit6.StudentManagement.exe
+/Users/aminh09/RiderProjects/BE_NET/Unit6.StudentManagement/bin/Debug/Unit6.StudentManagement.pdb
+/Users/aminh09/RiderProjects/BE_NET/Unit6.StudentManagement/obj/Debug/Unit6.StudentManagement.csproj.AssemblyReference.cache
+/Users/aminh09/RiderProjects/BE_NET/Unit6.StudentManagement/obj/Debug/Unit6.StudentManagement.csproj.CoreCompileInputs.cache
+/Users/aminh09/RiderProjects/BE_NET/Unit6.StudentManagement/obj/Debug/Unit6.StudentManagement.exe
+/Users/aminh09/RiderProjects/BE_NET/Unit6.StudentManagement/obj/Debug/Unit6.StudentManagement.pdb
